@@ -4,21 +4,21 @@ https://github.com/user-attachments/assets/0393b585-7e8e-4e80-b639-e521f0ec3254
 
 Визуальная новелла по Лицею №2 г.Перми.
 *Последняя актуальная версия - alpha 0.1*
-| Операционная система | Поддержка | Проблемы |
+| Операционная система | Поддержка |
 |----|:----:|:-----:|
-| Windows 10 | ✅ | ❌ |
-| Windows 11 | ✅ | ❌ |
-| MacOS | ❌ | ❌ |
-| Linux | ❌ | ❌ |
-| Android | ❌ | ❌ |
-| IOS | ❌ | ❌ |
+| Windows 10 | ✅ |
+| Windows 11 | ✅ |
+| MacOS | ❌ |
+| Linux | ✅ (wine)|
+| Android | ❌ |
+| IOS | ❌ |
 
 ## В проекте на данный момент есть:
-1) Своя графика + рофло-заставка 🌟
-2) Почти 2 игровых дня 🌟
-3) Музыка и звуковые эффекты (чужие) 🌟
-4) Возможность выбора и его влияние на концовку 🌟
-5) Заготовки на будущее 🌟
+1) Своя графика + шуточная заставка 
+2) Почти 2 игровых дня 
+3) Музыка и звуковые эффекты (чужие) 
+4) Возможность выбора и его влияние на концовку 
+5) Заготовки на будущее 
 
 ## Описание
 ![](https://github.com/sheynor/LHistory/blob/images/screenshots/window_icon.png)  
@@ -65,9 +65,6 @@ https://github.com/user-attachments/assets/0393b585-7e8e-4e80-b639-e521f0ec3254
 Графика - [Adobe Photoshop 2025](https://www.adobe.com/ru/products/photoshop.html), [ChatGPT](https://chatgpt.com)  
 
 Музыка и звуки - [Bocchi The Rock!](https://youtu.be/KkZZNA-RzNQ?si=l4XzHyTnAA1EQaPc)
-
-## Ссылки на автора
-[![Telegram](https://github.com/sheynor/LHistory/blob/images/screenshots/tgoipel.png)](https://t.me/oipel43)
 
 
 
