@@ -35,12 +35,12 @@ https://github.com/user-attachments/assets/0393b585-7e8e-4e80-b639-e521f0ec3254
 
 ## Как установить на Windows 10/11
 ### Установщик
-1) Скачайте установщик [setup.exe](https://github.com/sheynor/LHistory/releases/download/alpha/setup.exe)
+1) Скачайте установщик [setup.exe](https://github.com/sheynor43/LHistory/releases/download/Alpha/setup.exe)
 2) Запустите его и следуйте инструкции
 3) Готово!
 Игра в зависимости настроек установки появится в меню "Пуск" и на Рабочем столе.
 ### Архив
-1) Скачайте [архив](https://github.com/sheynor/LHistory/releases/download/alpha/LHystory01-0.1-win.zip)
+1) Скачайте [архив](https://github.com/sheynor43/LHistory/releases/download/Alpha/LHystory01-0.1-win.zip)
 2) Распокуйте его в любое удобное для вас место и откройте его
 3) Нажмите ПКМ по lhystory.exe
 4) Выберите в открывшимся контекстном меню "Создать ярлык"
