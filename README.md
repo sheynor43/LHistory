@@ -21,17 +21,17 @@ https://github.com/user-attachments/assets/0393b585-7e8e-4e80-b639-e521f0ec3254
 5) Заготовки на будущее 
 
 ## Описание
-![](https://github.com/sheynor/LHistory/blob/images/screenshots/window_icon.png)  
+![](https://github.com/sheynor43/LHistory/blob/main/screenshots/window_icon.png)  
 Визуальнная новелла LHistory познакомит вас с разными ситуациями и событиями в лицее №2 от лиц разных учеников. В игре присутсвуют всячиские приколы, разные концовки, побочные события, и много много другого. 
 
 ### Изображения
-![1](https://github.com/sheynor/LHistory/blob/images/screenshots/image_2025-04-06_14-53-52.png) 
-![2](https://github.com/sheynor/LHistory/blob/images/screenshots/image_2025-04-06_14-57-43.png)
-![3](https://github.com/sheynor/LHistory/blob/images/screenshots/image_2025-04-06_14-58-38.png)
-![4](https://github.com/sheynor/LHistory/blob/images/screenshots/image_2025-04-06_14-59-18.png)
-![5](https://github.com/sheynor/LHistory/blob/images/screenshots/image_2025-04-06_15-00-42.png)
-![6](https://github.com/sheynor/LHistory/blob/images/screenshots/image_2025-04-06_15-01-10.png)
-![7](https://github.com/sheynor/LHistory/blob/images/screenshots/image_2025-04-06_15-01-32.png)
+![1](https://github.com/sheynor43/LHistory/blob/main/screenshots/image_2025-04-06_14-53-52.png) 
+![2](https://github.com/sheynor43/LHistory/blob/main/screenshots/image_2025-04-06_14-57-43.png)
+![3](https://github.com/sheynor43/LHistory/blob/main/screenshots/image_2025-04-06_14-58-38.png)
+![4](https://github.com/sheynor43/LHistory/blob/main/screenshots/image_2025-04-06_14-59-18.png)
+![5](https://github.com/sheynor43/LHistory/blob/main/screenshots/image_2025-04-06_15-00-42.png)
+![6](https://github.com/sheynor43/LHistory/blob/main/screenshots/image_2025-04-06_15-01-10.png)
+![7](https://github.com/sheynor43/LHistory/blob/main/screenshots/image_2025-04-06_15-01-32.png)
 
 ## Как установить на Windows 10/11
 ### Установщик
